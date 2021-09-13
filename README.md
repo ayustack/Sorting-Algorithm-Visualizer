@@ -1,7 +1,7 @@
 # Sorting-Algorithm-Visualizer
 
 ********************
-***By:- Ayush Jaiswal<br>
+***🧔:- Ayush Jaiswal<br>
 📧:- ayushhjaiswal@gmail.com***
 ********************
 
@@ -15,6 +15,6 @@
 6. Buttons become non-functional once an algorithm starts executing and becomes active again when the execution is complete.
 
 ********************
-***By:- Ayush Jaiswal<br>
+***🧔:- Ayush Jaiswal<br>
 📧:- ayushhjaiswal@gmail.com***
 ********************
