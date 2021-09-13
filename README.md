@@ -2,7 +2,7 @@
 
 ********************
 ***By:- Ayush Jaiswal
-E-mail:- ayushhjaiswal@gmail.com***
+📧:- ayushhjaiswal@gmail.com***
 ********************
 
 **In this project we actually see the speed and algorithm difference of different sorting techniques.**
@@ -16,5 +16,5 @@ E-mail:- ayushhjaiswal@gmail.com***
 
 ********************
 ***By:- Ayush Jaiswal
-E-mail:- ayushhjaiswal@gmail.com***
+📧:- ayushhjaiswal@gmail.com***
 ********************
