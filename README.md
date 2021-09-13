@@ -5,7 +5,7 @@
 📧:- ayushhjaiswal@gmail.com***
 ********************
 
-**In this project we actually see the speed and algorithm difference of different sorting techniques.**
+**In this project, we actually see the speed and algorithm difference of different sorting techniques.**
 ### Basic Outlet of the Code:-
 1. The vertical bars from the top represents different array elements.
 2. "Array Size" bar is to change the size of the array accordingly.
