@@ -13,6 +13,7 @@
 4. "Generate New" button is to generate new array condition on which code could be re-run.
 5. "Bubble", "Selection", "Insertion", "Merge", "Quick" and "Heap" buttons are different sorting algorithms.
 6. Buttons become non-functional once an algorithm starts executing and becomes active again when the execution is complete.
+7. You can view the webpage by [clicking here](https://ayustack.github.io/Sorting-Algorithm-Visualizer/).
 
 ********************
 ***🧔:- Ayush Jaiswal<br>
